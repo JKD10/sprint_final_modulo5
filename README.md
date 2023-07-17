@@ -3,10 +3,10 @@
 Evaluación Final del Módulo
 Integrantes:
 
-Jocelyn Reyes
-Jose Henriquez
-Pablo Torres
-Jonathan Moya
+- Jocelyn Reyes
+- Jose Henriquez
+- Pablo Torres
+- Jonathan Moya
 
-Oyente del grupo.
-Felipe Valderrama.
+# Oyente del grupo.
+- Felipe Valderrama.
